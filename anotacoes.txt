@@ -1,0 +1,1 @@
+a fila e pilha foram implementadas com cabeca que sao o consturor da classe que faz sempre que eu chame um objeto ele inicie com um valor na cabeca
